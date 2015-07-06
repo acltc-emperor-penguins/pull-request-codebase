@@ -1,4 +1,4 @@
 puts "Hello!"
 10.times do
-  puts "Hi!!!!!"
+  puts "Hey!!!!!"
 end
